@@ -5,6 +5,9 @@ I'm <a href="#" target="_blank" rel="noreferrer">Matin Bayram</a> 👋
 <h2 align="center">
 I'm a Data Scientist 💻, Financial Analyst💹
 </h2>
+<h2 align="center">
+Sales Performance & Reporting
+</h2>
 
 ## 💼 Technical Skills
 
