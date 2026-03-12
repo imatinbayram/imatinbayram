@@ -25,9 +25,10 @@ Sales Performance & Reporting
 
 ## 💼 Proyektlər
 <h2 align="center">
+  <a href="https://github.com/imatinbayram/FAB_MARKALAR/blob/main/README.md" target="_blank">
   Satış Analitik Hesabat Sistemi
 </h2>
-<h3 align="center">
+<p align="center">
   Bu layihə FAB Şirkətlər Qrupu üçün hazırlanmış Streamlit əsaslı interaktiv satış və marka analitik hesabat tətbiqidir.
 Tətbiq region, marka və məhsul qrupları üzrə satışların təhlilini, müqayisəsini və Excel formatında ixracını təmin edir.
-</h3>
+</p>
