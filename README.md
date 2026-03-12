@@ -25,10 +25,34 @@ Sales Performance & Reporting
 
 ## 💼 Proyektlər
 <p align="center">
-<h2 align="center">
+<h2>
   <a href="https://github.com/imatinbayram/FAB_MARKALAR/blob/main/README.md" target="_blank">
-  Satış Analitik Hesabat Sistemi
+  Productline Sales Analytics
 </h2>
-  Bu layihə FAB Şirkətlər Qrupu üçün hazırlanmış Streamlit əsaslı interaktiv satış və marka analitik hesabat tətbiqidir.
-Tətbiq region, marka və məhsul qrupları üzrə satışların təhlilini, müqayisəsini və Excel formatında ixracını təmin edir.
+  Tətbiq region, marka və məhsul qrupları üzrə satışların təhlilini, müqayisəsini və Excel formatında ixracını təmin edir.
+</p>
+
+<p align="center">
+<h2>
+  <a href="https://github.com/imatinbayram/omidstore/blob/main/README.md" target="_blank">
+  Store Report System
+</h2>
+  Streamlit tətbiqi mağazalardan stok məlumatlarını API vasitəsilə çəkir və istifadəçiyə tarix və bölgə üzrə interaktiv hesabat təqdim edir.
+</p>
+
+<p align="center">
+<h2>
+  <a href="https://github.com/imatinbayram/fab-hesabat/blob/main/README.md" target="_blank">
+  Distribution Sale Report
+</h2>
+  Streamlit üzərindən hazırlanmış bu tətbiq satış, sifariş, borc və qırmızı göstəricilərin
+günlük və aylıq əsasda vizual və cəmlənmiş formada təqdim edilməsi üçün nəzərdə tutulmuşdur.
+</p>
+
+<p align="center">
+<h2>
+  <a href="https://github.com/imatinbayram/FAB_Production/blob/main/README.md" target="_blank">
+  Production Analysis Report
+</h2>
+  Layihə xammaldan yarımfabrikat və hazır məhsula qədər istehsal məlumatlarını göstərə bilir və istifadəçiyə istehsal prosesini rahatlıqla izləməyə imkan verir.
 </p>
