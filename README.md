@@ -35,7 +35,7 @@ Sales Performance & Reporting
 <p align="center">
 <h2>
   <a href="https://github.com/imatinbayram/omidstore/blob/main/README.md" target="_blank">
-  Store Dashboard
+  Store Sale
 </h2>
   Streamlit tətbiqi mağazalardan stok məlumatlarını API vasitəsilə çəkir və istifadəçiyə tarix və bölgə üzrə interaktiv hesabat təqdim edir.
 </p>
@@ -71,4 +71,21 @@ günlük və aylıq əsasda vizual və cəmlənmiş formada təqdim edilməsi ü
   Stock in Warehouse
 </h2>
   Anbarlar və Stokların cari miqdarı haqqında məlumatı göstərir və məlumatları Excel formatında yükləməyə imkan verir.
+</p>
+
+<p align="center">
+<h2>
+  <a href="https://github.com/imatinbayram/omid/blob/main/README.md" target="_blank">
+  Store Dashboard
+</h2>
+  Mağazalar üzrə satışların təhlilini, aylıq dəyişiklikləri, potensial və real satış müqayisələrini vizuallaşdırır.
+</p>
+
+<p align="center">
+<h2>
+  <a href="https://github.com/imatinbayram/fabcesitsatma/blob/main/README.md" target="_blank">
+  Advertising and sales promotion
+</h2>
+  Bu Streamlit tətbiqi ŞOK kampaniya məhsulları, müştəri sayı, çeşit satma icrası
+və satılmayan müştərilərin filial və kateqoriya üzrə analizini aparmaq üçün hazırlanmışdır.
 </p>
