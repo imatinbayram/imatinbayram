@@ -1,15 +1,15 @@
 <h1 align="center">
-I'm <a href="#" target="_blank" rel="noreferrer">Matin Bayram</a> 👋
+<a href="#" target="_blank" rel="noreferrer">Matin Bayram</a> 👋
 </h1>
 
 <h2 align="center">
-I'm a Data Scientist 💻, Financial Analyst💹
+💻 Data Scientist | Financial Analyst 💹
 </h2>
 <h2 align="center">
 Sales Performance & Reporting
 </h2>
 
-## 💼 Technical Skills
+## 💼
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
