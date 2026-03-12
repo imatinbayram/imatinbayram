@@ -24,11 +24,11 @@ Sales Performance & Reporting
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ## 💼 Proyektlər
+<p align="center">
 <h2 align="center">
   <a href="https://github.com/imatinbayram/FAB_MARKALAR/blob/main/README.md" target="_blank">
   Satış Analitik Hesabat Sistemi
 </h2>
-<p align="center">
   Bu layihə FAB Şirkətlər Qrupu üçün hazırlanmış Streamlit əsaslı interaktiv satış və marka analitik hesabat tətbiqidir.
 Tətbiq region, marka və məhsul qrupları üzrə satışların təhlilini, müqayisəsini və Excel formatında ixracını təmin edir.
 </p>
